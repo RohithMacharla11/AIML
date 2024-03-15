@@ -1,11 +1,12 @@
 # AIML
 Repository for my Artificial Inteligence and Machine Learning Lab Sessions
 # AIML LABS
-[Lab - 01 ](https://github.com/RohithMacharla11/AIML/blob/main/AIML%20LAB%2002.ipynb)<br>                                                                                                   
+[Lab - 01 ](https://github.com/RohithMacharla11/AIML/blob/main/AIML%20LAB%2002.ipynb)<br>
 [Lab - 02 ](https://github.com/RohithMacharla11/AIML/blob/main/AIML%20Lab02.ipynb)<br>
 [Lab - 03 ](https://github.com/RohithMacharla11/AIML/blob/main/AIML%20Lab03.ipynb)<br>
 [Lab - 04 ](https://github.com/RohithMacharla11/AIML/blob/main/AIML%20Lab04.ipynb)<br>
 [Lab - 05 ](https://github.com/RohithMacharla11/AIML/blob/main/AIML%20Lab05.ipynb)<br>
+[Lab - 06 ](https://github.com/RohithMacharla11/AIML/blob/main/AIML%20Lab06.ipynb)<br>
 
 # Stat ML Labs
 [Lab - 01 ](https://github.com/RohithMacharla11/AIML/blob/main/StatMl%20Lab01.ipynb)                                                                                   
